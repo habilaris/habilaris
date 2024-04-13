@@ -1,6 +1,6 @@
 <!-- Masthead -->
 <p align="center">
-  <img src="https://i.imgur.com/your_image_link.png" alt="Habil Aris" width="500"/>
+  <img src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif" alt="Habil Aris" width="500"/>
 </p>
 
 <!-- Introduction -->

@@ -1,6 +1,6 @@
 <!-- Masthead -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQGmgmhsVO6-iw/feedshare-shrink_2048_1536/B4DZkBH7lSIgAw-/0/1756660481270?e=1759363200&v=beta&t=iyJAi_j1OcJ5NIXiqsRxSfjelNTBpd_IawyjeObG9r4" alt="Habil Aris" width="1000"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEEe4Krpkzr-Q/profile-displaybackgroundimage-shrink_350_1400/B4DZnVP1gMJcAc-/0/1760219323437?e=1773273600&v=beta&t=76FV4iNjePslWWnDhX5uO1r6l2TPVuZeP7ts7fv8heI" alt="Habil Aris" width="1000"/>
 </p>
 
 <!-- Introduction -->

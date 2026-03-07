@@ -136,6 +136,13 @@ Scalable Backend Systems
 </p>
 
 ---
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/habilaris/habilaris/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 <h2 align="center">⚡ Philosophy</h2>
 
@@ -147,14 +154,6 @@ It is <b>software that is scalable, maintainable, and thoughtfully designed.</b>
 
 </p>
 
----
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/habilaris/habilaris/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <p align="center">
 ⭐ If you find my work interesting, feel free to connect or follow.

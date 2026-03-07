@@ -25,14 +25,12 @@ Modern Web Developer focused on building scalable applications, elegant user int
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-
-💻 Custom <b>Web & App Developer</b> <br><br>
-🎨 Passionate about <b>UI/UX and product design</b> <br><br>
-⚙️ Building <b>APIs, SaaS platforms, dashboards, and CMS systems</b> <br><br>
-🧠 Always learning <b>modern web architecture</b> <br><br>
-🌍 Based in <b>Peshawar, Pakistan</b> <br><br>
-📫 <b>habilaris4@gmail.com</b>
-
+  💻 Custom <b>Web & App Developer</b> <br><br>
+  🎨 Passionate about <b>UI/UX and product design</b> <br><br>
+  ⚙️ Building <b>APIs, SaaS platforms, dashboards, and CMS systems</b> <br><br>
+  🧠 Always learning <b>modern web architecture</b> <br><br>
+  🌍 Based in <b>Peshawar, Pakistan</b> <br><br>
+  📫 <b>habilaris4@gmail.com</b>
 </p>
 
 ---
@@ -68,15 +66,13 @@ Modern Web Developer focused on building scalable applications, elegant user int
 <h2 align="center">🛠 What I Build</h2>
 
 <p align="center">
-
-Full Stack Web Applications <br>
-Custom Backend APIs <br>
-Admin Dashboards <br>
-CMS Platforms <br>
-Business Websites <br>
-SaaS Applications <br>
-Scalable Backend Systems
-
+  Full Stack Web Applications <br>
+  Custom Backend APIs <br>
+  Admin Dashboards <br>
+  CMS Platforms <br>
+  Business Websites <br>
+  SaaS Applications <br>
+  Scalable Backend Systems
 </p>
 
 ---
@@ -108,14 +104,6 @@ Scalable Backend Systems
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=habilaris&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habilaris&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=habilaris&theme=tokyonight"/>
 </p>
 
@@ -129,17 +117,18 @@ Scalable Backend Systems
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=habilaris&theme=tokyo-night"/>
-</p>
-
----
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/habilaris/habilaris/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habilaris&theme=tokyo-night"/>
 </p>
 
 ---
@@ -154,7 +143,7 @@ It is <b>software that is scalable, maintainable, and thoughtfully designed.</b>
 
 </p>
 
-
+---
 <p align="center">
 ⭐ If you find my work interesting, feel free to connect or follow.
 </p>

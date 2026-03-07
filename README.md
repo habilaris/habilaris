@@ -1,72 +1,75 @@
-<!-- Masthead -->
+<!-- Banner -->
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQEEe4Krpkzr-Q/profile-displaybackgroundimage-shrink_350_1400/B4DZnVP1gMJcAc-/0/1760219323437?e=1773273600&v=beta&t=76FV4iNjePslWWnDhX5uO1r6l2TPVuZeP7ts7fv8heI" width="1000"/>
 </p>
 
-<h1 align="center">Hi, I'm Habil Aris 👋</h1>
-
-<h3 align="center">
-Custom Web & App Developer • UI/UX Focused • Building Scalable Digital Products
-</h3>
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Habil+Aris;Custom+Web+%26+App+Developer;UI%2FUX+Focused+Engineer;Building+Modern+Web+Experiences" />
+</p>
 
 <p align="center">
-I build modern websites, web applications, and digital platforms with a strong focus on performance, design, and clean architecture.
+Modern Web Developer focused on building scalable applications, elegant user interfaces, and robust backend systems.
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+# 🚀 About Me
 
 <p align="center">
-💻 Focused on <b>Custom Web & App Development</b><br><br>
-🎨 Passionate about <b>clean UI/UX and thoughtful product design</b><br><br>
-⚙️ Interested in <b>backend architecture, APIs, and scalable systems</b><br><br>
-🧠 Always improving my understanding of <b>modern web architecture</b><br><br>
-🌍 Based in <b>Peshawar, Pakistan</b><br><br>
-📫 Reach me at <b>habilaris4@gmail.com</b>
+
+💻 Custom **Web & App Developer**  
+🎨 Passionate about **UI/UX and product design**  
+⚙️ Building **APIs, SaaS platforms, dashboards, and CMS systems**  
+🧠 Always learning **modern web architecture**  
+🌍 Based in **Peshawar, Pakistan**  
+📫 **habilaris4@gmail.com**
+
 </p>
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
+# 🧰 Tech Stack
 
-<h3 align="center">Frontend</h3>
+### Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-<h3 align="center">Backend</h3>
+### Backend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<h3 align="center">Databases</h3>
+### Databases
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-<h3 align="center">Tools & Platforms</h3>
+### Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,vercel" />
 </p>
 
 ---
 
-<h2 align="center">🛠 What I Like Building</h2>
+# 🛠 What I Build
 
 <p align="center">
-Full Stack Web Applications<br>
-Custom Backend APIs<br>
-SaaS Platforms<br>
-CMS Systems<br>
-Dashboards and Admin Panels<br>
-Business Websites<br>
-Scalable Backend Architectures
+
+Full Stack Web Applications  
+Custom Backend APIs  
+Admin Dashboards  
+CMS Platforms  
+Business Websites  
+SaaS Applications  
+Scalable Backend Systems
+
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -90,31 +93,42 @@ Scalable Backend Architectures
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=habilaris&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=habilaris&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habilaris&layout=compact&theme=tokyonight" height="170"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habilaris&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habilaris&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habilaris&theme=tokyonight"/>
 </p>
 
 ---
 
-<h2 align="center">⚡ Philosophy</h2>
+# 📈 Contribution Activity
 
 <p align="center">
-<i>
-Good software is not just code that works.<br><br>
-It is <b>code that is maintainable, scalable, and designed with purpose.</b>
-</i>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habilaris&theme=tokyo-night"/>
 </p>
 
+---
+
+# ⚡ Philosophy
+
 <p align="center">
-⭐ If you find my work interesting, feel free to follow or connect.
+
+Good software is not just code that works.
+
+It is **software that is scalable, maintainable, and thoughtfully designed.**
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you find my work interesting, feel free to connect or follow.
 </p>

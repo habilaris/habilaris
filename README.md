@@ -31,7 +31,8 @@ Modern Web Developer focused on building scalable applications, elegant user int
 
 # 🧰 Tech Stack
 
-### Frontend
+
+<h3 align="center">Frontend<h3/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>

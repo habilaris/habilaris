@@ -1,117 +1,120 @@
 <!-- Masthead -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEEe4Krpkzr-Q/profile-displaybackgroundimage-shrink_350_1400/B4DZnVP1gMJcAc-/0/1760219323437?e=1773273600&v=beta&t=76FV4iNjePslWWnDhX5uO1r6l2TPVuZeP7ts7fv8heI" alt="Habil Aris" width="1000"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEEe4Krpkzr-Q/profile-displaybackgroundimage-shrink_350_1400/B4DZnVP1gMJcAc-/0/1760219323437?e=1773273600&v=beta&t=76FV4iNjePslWWnDhX5uO1r6l2TPVuZeP7ts7fv8heI" width="1000"/>
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Hey, I'm Habil Aris 👋🏼</h1>
-<h3 align="center">🎨 Custom Web & App Developer · UI/UX Designer · Based in Peshawar 🇵🇰</h3>
+<h1 align="center">Hi, I'm Habil Aris 👋</h1>
+
+<h3 align="center">
+Custom Web & App Developer • UI/UX Focused • Building Scalable Digital Products
+</h3>
 
 <p align="center">
-  <em>I craft high-quality, tailor-made digital experiences — <br/>
-  from pixel-perfect interfaces to fully functional web and mobile applications.<br/>
-  Every project is built with intention, creativity, and clean code.</em>
-</p>
-
-<br/>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habilaris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habilaris&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+I build modern websites, web applications, and digital platforms with a strong focus on performance, design, and clean architecture.
 </p>
 
 ---
 
-<!-- About Me -->
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 
-<p align="center">🔭 Currently building <strong>custom websites & apps</strong> for clients and personal projects</p>
-<p align="center">🎨 Passionate about <strong>UI/UX design</strong> — making things beautiful <em>and</em> functional</p>
-<p align="center">💡 I turn ideas into <strong>polished digital products</strong>, from concept to deployment</p>
-<p align="center">🛠️ Focused on <strong>responsive design</strong>, smooth interactions, and clean architecture</p>
-<p align="center">📫 Reach me at <a href="mailto:habilaris4@gmail.com">habilaris4@gmail.com</a></p>
-<p align="center">⚡ Fun fact: I also love creating art — design bleeds into everything I do 🎨</p>
-
----
-
-<!-- What I Do -->
-<h2 align="center">🚀 What I Do</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <h4>🌐 Web Development</h4>
-      <p>Custom websites built from scratch — fast, responsive, and tailored to your brand</p>
-    </td>
-    <td align="center" width="220">
-      <h4>📱 App Development</h4>
-      <p>Cross-platform mobile apps with smooth UX and real-world functionality</p>
-    </td>
-    <td align="center" width="220">
-      <h4>🎨 UI/UX Design</h4>
-      <p>Clean, modern interfaces designed with usability and aesthetics in mind</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Languages and Tools -->
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-</p>
-
-<h4 align="center">Backend & Tools</h4>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+💻 Focused on <b>Custom Web & App Development</b><br><br>
+🎨 Passionate about <b>clean UI/UX and thoughtful product design</b><br><br>
+⚙️ Interested in <b>backend architecture, APIs, and scalable systems</b><br><br>
+🧠 Always improving my understanding of <b>modern web architecture</b><br><br>
+🌍 Based in <b>Peshawar, Pakistan</b><br><br>
+📫 Reach me at <b>habilaris4@gmail.com</b>
 </p>
 
 ---
 
-<!-- Connect with Me -->
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="center">🧰 Tech Stack</h2>
+
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/habilaris"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/habil-aris"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://instagram.com/habilaris"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/mechagenos"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,linux,vscode" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🛠 What I Like Building</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habilaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habilaris&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habilaris&theme=tokyonight" alt="GitHub Streak" />
+Full Stack Web Applications<br>
+Custom Backend APIs<br>
+SaaS Platforms<br>
+CMS Systems<br>
+Dashboards and Admin Panels<br>
+Business Websites<br>
+Scalable Backend Architectures
 </p>
 
 ---
 
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
-  <em>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</em>
+
+<a href="https://linkedin.com/in/habilaris">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://stackoverflow.com/users/habil-aris">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40"/>
+</a>
+
+<a href="https://instagram.com/habilaris">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://www.youtube.com/c/mechagenos">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=habilaris&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habilaris&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habilaris&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">⚡ Philosophy</h2>
+
+<p align="center">
+<i>
+Good software is not just code that works.<br><br>
+It is <b>code that is maintainable, scalable, and designed with purpose.</b>
+</i>
+</p>
+
+<p align="center">
+⭐ If you find my work interesting, feel free to follow or connect.
 </p>

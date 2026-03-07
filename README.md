@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Habil+Aris;Custom+Web+%26+App+Developer;UI%2FUX+Focused+Engineer;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Habil+Aris;Custom+Web+%26+App+Developer;UI%2FUX+Focused+Engineer;Building+Modern+Web+Experiences"/>
 </p>
 
 <p align="center">
@@ -14,63 +14,66 @@ Modern Web Developer focused on building scalable applications, elegant user int
 
 ---
 
-# 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
 
-💻 Custom **Web & App Developer**  
-🎨 Passionate about **UI/UX and product design**  
-⚙️ Building **APIs, SaaS platforms, dashboards, and CMS systems**  
-🧠 Always learning **modern web architecture**  
-🌍 Based in **Peshawar, Pakistan**  
-📫 **habilaris4@gmail.com**
+💻 Custom <b>Web & App Developer</b> <br><br>
+🎨 Passionate about <b>UI/UX and product design</b> <br><br>
+⚙️ Building <b>APIs, SaaS platforms, dashboards, and CMS systems</b> <br><br>
+🧠 Always learning <b>modern web architecture</b> <br><br>
+🌍 Based in <b>Peshawar, Pakistan</b> <br><br>
+📫 <b>habilaris4@gmail.com</b>
 
 </p>
 
 ---
 
-# 🧰 Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
+<h3 align="center">Frontend</h3>
 
-<h3 align="center">Frontend<h3/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Databases
+<h3 align="center">Databases</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### Tools
+<h3 align="center">Tools</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,vercel"/>
 </p>
 
 ---
 
-# 🛠 What I Build
+<h2 align="center">🛠 What I Build</h2>
 
 <p align="center">
 
-Full Stack Web Applications  
-Custom Backend APIs  
-Admin Dashboards  
-CMS Platforms  
-Business Websites  
-SaaS Applications  
+Full Stack Web Applications <br>
+Custom Backend APIs <br>
+Admin Dashboards <br>
+CMS Platforms <br>
+Business Websites <br>
+SaaS Applications <br>
 Scalable Backend Systems
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
@@ -94,7 +97,7 @@ Scalable Backend Systems
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 
@@ -110,7 +113,15 @@ Scalable Backend Systems
 
 ---
 
-# 📈 Contribution Activity
+<h2 align="center">📅 GitHub Contribution Calendar</h2>
+
+<p align="center">
+<img src="https://ghchart.rshah.org/409ba5/habilaris" alt="Habil Aris Github chart"/>
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=habilaris&theme=tokyo-night"/>
@@ -118,13 +129,13 @@ Scalable Backend Systems
 
 ---
 
-# ⚡ Philosophy
+<h2 align="center">⚡ Philosophy</h2>
 
 <p align="center">
 
-Good software is not just code that works.
+Good software is not just code that works. <br><br>
 
-It is **software that is scalable, maintainable, and thoughtfully designed.**
+It is <b>software that is scalable, maintainable, and thoughtfully designed.</b>
 
 </p>
 

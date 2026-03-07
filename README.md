@@ -136,11 +136,9 @@ Modern Web Developer focused on building scalable applications, elegant user int
 <h2 align="center">⚡ Philosophy</h2>
 
 <p align="center">
-
-Good software is not just code that works. <br><br>
-
-It is <b>software that is scalable, maintainable, and thoughtfully designed.</b>
-
+  Good software is not just code that works. <br><br>
+  
+  It is <b>software that is scalable, maintainable, and thoughtfully designed.</b>
 </p>
 
 ---

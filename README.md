@@ -153,7 +153,9 @@ It is <b>software that is scalable, maintainable, and thoughtfully designed.</b>
 <p align="center">
 <img src="https://raw.githubusercontent.com/habilaris/habilaris/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
+
 <p align="center">
 ⭐ If you find my work interesting, feel free to connect or follow.
 </p>

@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEEe4Krpkzr-Q/profile-displaybackgroundimage-shrink_350_1400/B4DZnVP1gMJcAc-/0/1760219323437?e=1775088000&v=beta&t=BUv_eYgVtDkBjaBUgVTebUEhBmSxofZ_Jh7wvzJsppU" width="1000"/>
+  <img src="https://raw.githubusercontent.com/habilaris/habilaris/refs/heads/main/Web%20Dev%20Panel.png" width="1000"/>
 </p>
 
 <!-- Typing Animation -->

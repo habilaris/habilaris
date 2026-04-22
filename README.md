@@ -101,14 +101,6 @@ Modern Web Developer focused on building scalable applications, elegant user int
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habilaris&theme=tokyonight"/>
-</p>
-
----
-
 <h2 align="center">📅 GitHub Contribution Calendar</h2>
 
 <p align="center">

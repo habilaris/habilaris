@@ -40,7 +40,7 @@ Modern Web Developer focused on building scalable applications, elegant user int
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mui"/>
 </p>
 
 <h3 align="center">Backend</h3>
